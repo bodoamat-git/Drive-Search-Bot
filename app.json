@@ -5,7 +5,7 @@
     "keywords": [
       "telegram",
       "bot",
-      "google_drive",
+      "googledrive",
       "python"
     ],
     "repository": "https://github.com/devillD/Drive-Search-Bot.git",
@@ -26,7 +26,7 @@
    
       "TELEGRAPH_TOKEN": {
         "description": "Generate using python3 telegraph_token.py.",
-        "required": true
+        "required": false
       },
     }
 }
