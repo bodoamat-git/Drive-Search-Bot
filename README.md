@@ -65,8 +65,8 @@ python3 generate_drive_token.py
 ```
 
 ## Deploying on Heroku
-
-- Install [Heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
+### Auto [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### Menual - Install [Heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
 - Login into your heroku account with command:
 ```
 heroku login
