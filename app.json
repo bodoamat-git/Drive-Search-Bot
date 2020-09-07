@@ -15,7 +15,7 @@
     "env": {
       "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
-      "value": "ANYTHING"
+      "required": false
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
