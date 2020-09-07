@@ -1,0 +1,32 @@
+{
+    "name": "Search in Drive",
+    "description": "Search bot in python",
+    "logo": "https://telegra.ph/file/65522ec6b51c607b1d7fc.jpg",
+    "keywords": [
+      "telegram",
+      "bot",
+      "google_drive",
+      "python"
+    ],
+    "repository": "https://github.com/devillD/Drive-Search-Bot.git",
+    "website": "https://github.com/devillD/Drive-Search-Bot/tree/master",
+    "success_url": "https://github.com/devillD/Drive-Search-Bot/blob/master/README.md",
+    "stack": "container",
+    "env": {
+      
+      "BOT_TOKEN": {
+        "description": "The telegram bot token that you get from @BotFather.",
+        "required": true
+      },
+
+      "OWNER_ID": {
+        "description": "The Telegram user ID (not username) of the owner of the bot.",
+        "required": true
+      },
+   
+      "TELEGRAPH_TOKEN": {
+        "description": "Generate using python3 telegraph_token.py.",
+        "required": true
+      },
+    }
+}
